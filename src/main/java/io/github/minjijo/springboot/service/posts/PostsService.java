@@ -1,6 +1,7 @@
 package io.github.minjijo.springboot.service.posts;
 
 import io.github.minjijo.springboot.domain.posts.PostsRepository;
+import io.github.minjijo.springboot.web.dto.PostsSaveRequestDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
